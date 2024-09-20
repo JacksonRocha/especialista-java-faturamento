@@ -1,6 +1,6 @@
 package jackson.rocha.fiscal;
 
-public class NotaFiscal {
+public abstract class NotaFiscal {
 
     public String descricao;
     public double valorTotal;
